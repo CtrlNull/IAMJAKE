@@ -15,16 +15,15 @@ body {
 }
 
 .business-header {
-  height: 50vh;
-	min-height: 300px;
-	margin-bottom: 5px;
+}
+#bannerimage {
+	height: 100%;
 }
 
 .card {
   height: 100%;
 }
 #links {
-  margin-top: -5px;
 }
 
 #facebook, #Instagram, #Twitter, #YouTube {
