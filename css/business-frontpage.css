@@ -16,14 +16,15 @@ body {
 
 .business-header {
   height: 50vh;
-  min-height: 300px;
+	min-height: 300px;
+	margin-bottom: 5px;
 }
 
 .card {
   height: 100%;
 }
 #links {
-  margin-top: -5%;
+  margin-top: -5px;
 }
 
 #facebook, #Instagram, #Twitter, #YouTube {
